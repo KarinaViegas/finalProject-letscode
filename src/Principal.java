@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Principal {
-
     private static double getTemp() {
         Scanner input = new Scanner(System.in);
         System.out.println("|_______________________________________________________________|");
